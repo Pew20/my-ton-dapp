@@ -1,5 +1,6 @@
 import "./App.css";
 import { TonConnectButton } from "@tonconnect/ui-react";
+import "@twa-dev/sdk";
 // import TonViewer from "./TonViewer";
 import { TonPanel } from "./TonPanel";
 
